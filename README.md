@@ -76,8 +76,6 @@ Create a root level `.env` file (copied from `.env.example` in production):
 ```env
 # Optional: Add a GitHub personal access token to raise rate limits to 5000 req/hr
 GITHUB_TOKEN="your_github_token"
-
-APP_URL="http://localhost:3000"
 ```
 
 ---
